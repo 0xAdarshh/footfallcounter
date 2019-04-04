@@ -1,9 +1,9 @@
 boost==0.1
-cmake==0.7.1
 boost-py
-face_recognition_models
-face_recognition
+cmake==0.7.1
 dlib==19.7.0
+face_recognition
+face_recognition_models
 beautifulsoup4==4.6.0
 certifi==2018.1.18
 chardet==3.0.4
