@@ -1,3 +1,6 @@
+boost==0.1
+cmake==0.7.1
+boost-py
 beautifulsoup4==4.6.0
 certifi==2018.1.18
 chardet==3.0.4
