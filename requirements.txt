@@ -33,8 +33,3 @@ whitenoise==3.2
 face_recognition
 face_recognition_models
 
-
-
-
-
-
