@@ -1,5 +1,10 @@
+boost==0.1
+cmake==0.7.1
+boost-py
+face_recognition_models
+face_recognition
+dlib=19.7.0
 beautifulsoup4==4.6.0
-cmake==3.13.3
 certifi==2018.1.18
 chardet==3.0.4
 django==2.0.5
@@ -11,9 +16,6 @@ urllib3==1.22
 dj-static==0.0.6
 Cython==0.27.3
 DateTime==4.3
-dlib==19.7.0
-face-recognition==1.2.3
-face-recognition-models==0.3.0
 html5lib==1.0.1
 imagesize==0.7.1
 imutils==0.5.2
