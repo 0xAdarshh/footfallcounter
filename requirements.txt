@@ -1,3 +1,4 @@
+django-heroku
 django==2.0.5
 boost==0.1
 cmake==0.7.1
