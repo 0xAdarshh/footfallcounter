@@ -1,1 +1,1 @@
-web: gunicorn mysite.wsgi
+web: gunicorn face_rec.wsgi
